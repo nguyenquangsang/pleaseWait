@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-pleasewait",
+  "version": "1.0",
+  "authors": [
+    "Sang Nguyen Quang <nguyenquangsang24@gmail.com>"
+  ],
+  "description": "Module for displaying Please Wait... dialog using Bootstrap",
+  "main": "src/pleasewait.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "bootstrap",
+    "progress",
+    "bar",
+    "waiting",
+    "dialog"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
